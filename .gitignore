@@ -1,7 +1,8 @@
-# Keep this repository limited to the standalone Skill and its license.
+# Keep this repository limited to the standalone Skill, its docs, and license.
 /*
 !/.gitignore
 !/LICENSE
+!/README.md
 !/SKILL.md
 !/agents/
 !/agents/**
