@@ -1,0 +1,13 @@
+# Keep this repository limited to the standalone Skill and its license.
+/*
+!/.gitignore
+!/LICENSE
+!/SKILL.md
+!/agents/
+!/agents/**
+!/references/
+!/references/**
+!/scripts/
+!/scripts/**
+/scripts/**/__pycache__/
+/scripts/**/*.py[cod]

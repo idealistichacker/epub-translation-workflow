@@ -1,0 +1,4 @@
+interface:
+  display_name: "EPUB Translation Workflow"
+  short_description: "Translate, polish, and validate EPUB manuscripts"
+  default_prompt: "Use $epub-translation-workflow to translate or polish this EPUB and validate the finished file."
